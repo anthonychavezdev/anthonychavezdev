@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Anthony! 👋
 
-<!--
-**anthonychavezdev/anthonychavezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on fullstack applications
+- 🌱 I’m currently learning Svelte
+- 👯 I’m looking to collaborate on Free and Open Source Software
+- 📺 I'm watching: Doctor Who, Demon Slayer, Silicon Valley
+- 💬 Ask me about: Chip8, Docker, Express.js ReactJS, Spring Boot
+- 📫 How to reach me: anthony@anthonychavez.xyz
+- 🔐 GPG fingerprint: E269 3BCC 1884 B4C9 0E9E  5B1D 456B 8C9A ECA5 7AD2
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm legally blind, and I'm a big reader
